@@ -1,0 +1,15 @@
+# Exercise: A Recipe Box Module
+#
+# Answer each question on its numbered line, after the ")". Write only the answer, like the example.
+#
+# Example: which command turns objects into JSON text?
+# 0) ConvertTo-Json
+
+# 1. Write-Progress -Activity 'Importing recipe cards' ... which parameter closes the progress bar when the job is done?
+1)
+
+# 2. "$($PSStyle.Foreground.Green)Overnight Oats" turns everything after it green. Which property of $PSStyle ends the color?
+2)
+
+# 3. Which method of a Windows Forms form shows the window and waits until the person closes it?
+3)
